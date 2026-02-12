@@ -1,8 +1,8 @@
 ---
 layout: books
-title: hobbies
+title: books
 permalink: /books/
-nav: false
+nav: true
 collection: books
 ---
 
