@@ -1,8 +1,9 @@
 ---
 layout: page
-title: bookshelf
+title: hobbies
 permalink: /books/
 nav: true
+nav_order: 5
 collection: bookshelf
 ---
 
