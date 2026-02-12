@@ -14,8 +14,8 @@ collection: bookshelf
 >
 > -- gata cattana
 
-## you can find books that i am reading, have read, or will read on (goodreads)[https://www.goodreads.com/user/show/143207524]
+# you can find books that i am reading, have read, or will read on [goodreads](https://www.goodreads.com/user/show/143207524)
 
-## you can find films that i am watching, have watched, or will watch on (letterbox)[https://boxd.it/b5MNP]. 
+# you can find films that i am watching, have watched, or will watch on [letterbox](https://boxd.it/b5MNP)
 
-## recommendations are more than welcome!
+# recommendations are more than welcome!
