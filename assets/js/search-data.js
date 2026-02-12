@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-título-de-tu-artículo-tal-cual-sale-en-substack",
+        },{id: "post-tomarse-un-par-de-gin-tonics-puede-aumentar-el-poder-sindical-en-la-negociación-colectiva",
         
-          title: 'Título de tu artículo tal cual sale en Substack <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '🤝🏼🍹¿Tomarse un par de gin-tonics puede aumentar el poder sindical en la negociación... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Un pequeño resumen o la primera frase de tu artículo...",
+        description: "Los sindicatos no están trendy. La sindicalización en el mercado laboral lleva décadas cayendo...",
         section: "Posts",
         handler: () => {
           
-            window.open("https://litoangel.substack.com/p/el-link-de-tu-post-concreto", "_blank");
+            window.open("https://substack.com/home/post/p-186527290", "_blank");
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
