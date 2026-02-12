@@ -1,9 +1,9 @@
 ---
-layout: books
+layout: bookshelf
 title: bookshelf
 permalink: /books/
 nav: true
-collection: books
+collection: bookshelf
 ---
 
 > los nadie, los hijos de nadie, los dueños de nada.
