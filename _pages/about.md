@@ -6,7 +6,7 @@ subtitle: based in salamanca (spain). <a href='#'>Affiliations</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: angel.png
   image_circular: false # crops the image to make it circular
   more_info: >
     department of economcis and economic history 
