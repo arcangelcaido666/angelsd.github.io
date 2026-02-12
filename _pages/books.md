@@ -1,13 +1,21 @@
 ---
-layout: book-shelf
-title: bookshelf
+layout: hobbies
+title: hobbies
 permalink: /books/
 nav: false
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+> los nadie, los hijos de nadie, los dueños de nada.
 >
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+> -- eduardo galeano
 
-## Books that I am reading, have read, or will read
+> yo amo como aman los pobres, y me temo, que durante mucho, mucho tiempo esto seguirá siendo así.
+>
+> -- gata cattana
+
+## you can find books that i am reading, have read, or will read on (goodreads)[https://www.goodreads.com/user/show/143207524]
+
+## you can find films that i am watching, have watched, or will watch on (letterbox)[https://boxd.it/b5MNP]. 
+
+## recommendations are more than welcome!
