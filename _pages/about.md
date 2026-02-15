@@ -9,10 +9,10 @@ profile:
   image: angel.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    department of economcis and economic history 
-    <p>Office 214</p>
-    FES Building - ‘Miguel de Unamuno’ Campus
-    <p>salamanca, spain 37007</p>
+    department of economcis and economic history<br> 
+    <p>office 214</p><br>
+    fes building - ‘miguel de unamuno’ campus<br>
+    <p>salamanca, spain 37007</p><br>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
