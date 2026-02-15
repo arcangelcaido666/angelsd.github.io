@@ -130,6 +130,20 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%61%6E%67%65%6C%73%64%31%39%39%38@%75%73%61%6C.%65%73", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=5zZSm3oAAAAJ", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -144,13 +158,6 @@ ninja.data = [{
           window.open("https://twitter.com/Angel_SnchzDnl", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/angelsdecon", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -158,25 +165,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/angelsanchezdaniel", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=5zZSm3oAAAAJ", "_blank");
+          window.open("https://github.com/angelsdecon", "_blank");
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_angel.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%61%6E%67%65%6C%73%64%31%39%39%38@%75%73%61%6C.%65%73", "_blank");
+          window.open("https://litoangel.substack.com", "_blank");
         },
       },{
       id: 'light-theme',
