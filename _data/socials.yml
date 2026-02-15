@@ -8,7 +8,7 @@ x_username: Angel_SnchzDnl
 linkedin_username: angelsanchezdaniel
 github_username: angelsdecon
 # cv_pdf: /assets/pdf/CV_angel.pdf # path to your CV PDF file
-substack:
+custom_social:
   title: Substack
   url: "https://litoangel.substack.com"
   icon: "fa-solid fa-bookmark"
