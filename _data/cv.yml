@@ -1,10 +1,10 @@
 cv:
-  name: Ángel Sánchez-Daniel
-  label: Ph.D. Student in Economics
+  name: ángel sánchez-daniel
+  label: ph.d. student in economics
   email: angelsd1998@usal.es
-  location: Salamanca, Spain
+  location: salamanca, spain
   image: ""
-  summary: "Ph.D. student in Economics specializing in labour economics, causal inference, and policy evaluation. Passionate about using quasi-experimental methods to answer real-world questions."
+  summary: "ph.d. student in economics specializing in labour economics, causal inference, and policy evaluation. passionate about using quasi-experimental methods to answer real-world questions."
 
   social_networks:
     - network: twitter
@@ -15,133 +15,133 @@ cv:
       username: angelsanchezdaniel
 
   address:
-    street: "Edificio FES, Campus 'Miguel de Unamuno'"
-    city: Salamanca
-    region: CYL
+    street: "edificio fes, campus 'miguel de unamuno'"
+    city: salamanca
+    region: cyl
     postalCode: "37007"
-    countryCode: Spain
+    countryCode: spain
 
   sections:
-    education:
-      - institution: Universidad de Salamanca
-        location: Salamanca, Spain
-        area: "Economics - Title: 'Essays on ageing Economics'"
-        studyType: Ph.D.
+    Education:
+      - institution: universidad de salamanca
+        location: salamanca, spain
+        area: "economics - title: 'essays on ageing economics'"
+        studyType: ph.d.
         start_date: 2022-09
-        end_date: Present
+        end_date: present
         score: ""
-        courses: "Supervisor: Miguel Ángel Malo Ocaña."
+        courses: "supervisor: miguel ángel malo ocaña."
         highlights:
-          - "Topic: Causal inference, Applied Econometrics, Health Economics."
+          - "topic: causal inference, applied econometrics, health economics."
 
-      - institution: Universitat de Barcelona, Autònoma de Barcelona, & de Girona
-        location: Barcelona, Spain
-        area: Labour Economics
-        studyType: M.S.
+      - institution: universitat de barcelona, autònoma de barcelona, & de girona
+        location: barcelona, spain
+        area: labour economics
+        studyType: m.s.
         start_date: 2020-09
         end_date: 2021-06
         score: "8.2/10"
         highlights:
-          - "Specialized in econometrics and impact evaluation methodologies."
+          - "specialized in econometrics and impact evaluation methodologies."
 
-      - institution: Universidad de Salamanca
-        location: Salamanca, Spain
-        area: Economics
-        studyType: B.S.
+      - institution: universidad de salamanca
+        location: salamanca, spain
+        area: economics
+        studyType: b.s.
         start_date: 2016-09
         end_date: 2020-06
         score: "8.01/10"
         highlights:
-          - "Exchange program in Universidad de Belgrano, Buenos Aires, Argentina (2019)."
+          - "exchange program in universidad de belgrano, buenos aires, argentina (2019)."
 
-    experience:
-      - company: Universidad de Salamanca
-        position: Pre-doctoral Researcher
-        location: Salamanca, Spain
+    Experience:
+      - company: universidad de salamanca
+        position: pre-doctoral researcher
+        location: salamanca, spain
         start_date: 2024-10
-        end_date: Present
-        summary: "Department of Economics & Economic History."
+        end_date: present
+        summary: "department of economics & economic history."
         highlights:
-          - "Project: Essays on ageing economics."
-          - "Regional funding, supported by the Junta de Castilla & León."
+          - "project: essays on ageing economics."
+          - "regional funding, supported by the junta de castilla & león."
 
-      - company: Universidad de Salamanca
-        position: Research Assistant
-        location: Salamanca, Spain
+      - company: universidad de salamanca
+        position: research assistant
+        location: salamanca, spain
         start_date: 2021-11
         end_date: 2024-08
-        summary: "Department of Economics & Economic History."
+        summary: "department of economics & economic history."
         highlights:
-          - "Project IRENE - Integrated socioeconomic and environmental modelling using remote sensing data for the management of unauthorized water abstractions."
+          - "project irene - integrated socioeconomic and environmental modelling using remote sensing data for the management of unauthorized water abstractions."
 
-      - company: Universidad de Salamanca
-        position: Lecturer / Teaching Assistant
-        location: Salamanca, Spain
+      - company: universidad de salamanca
+        position: lecturer / teaching assistant
+        location: salamanca, spain
         start_date: 2025-09
-        end_date: Present
-        summary: "Teaching undergraduate courses in Economics."
+        end_date: present
+        summary: "teaching undergraduate courses in economics."
         highlights:
-          - "Macroeconomics I: Bachelor's degree in Economics, 2nd year."
-          - "Labour Economics: Bachelor's degree in Economics, 4th year (Fully taught in English)."
+          - "macroeconomics i: bachelor's degree in economics, 2nd year."
+          - "labour economics: bachelor's degree in economics, 4th year (fully taught in english)."
 
-    publications:
-      - title: "Actionable human-water systems modeling under uncertainty"
+    Publications:
+      - title: "actionable human-water systems modeling under uncertainty"
         authors:
-          - Gil-García, L. et al.
-        publisher: Hydrology and Earth System Sciences (Preprint)
+          - gil-garcía, l. et al.
+        publisher: hydrology and earth system sciences (preprint)
         releaseDate: 2024-01-01
         url: "https://doi.org/10.5194/hess-2024-61"
 
-      - title: "Sensitivity of water reallocation performance assessments to water use data"
+      - title: "sensitivity of water reallocation performance assessments to water use data"
         authors:
-          - Sánchez-Daniel, Á. et al.
-        publisher: Water Resources and Economics
+          - sánchez-daniel, á. et al.
+        publisher: water resources and economics
         releaseDate: 2024-01-02
         url: "https://doi.org/10.1016/j.wre.2024.100252"
 
-      - title: "The impact of COVID-19 lockdown on mental health in the elderly: a nonlinear relationship"
+      - title: "the impact of covid-19 lockdown on mental health in the elderly: a nonlinear relationship"
         authors:
-          - Sánchez-Daniel, Á. and Malo-Ocaña, M.A.
-        publisher: Working Paper (Planned submission at Social Science & Medicine)
+          - sánchez-daniel, á. and malo-ocaña, m.a.
+        publisher: working paper (planned submission at social science & medicine)
         releaseDate: 2025-10-01
 
-      - title: "The intra-household effects of inheritances on time allocation by gender"
+      - title: "the intra-household effects of inheritances on time allocation by gender"
         authors:
-          - Sánchez-Daniel, Á. and Malo-Ocaña, M.A.
-        publisher: Working Paper (Planned submission at Review of Economics of the Household)
+          - sánchez-daniel, á. and malo-ocaña, m.a.
+        publisher: working paper (planned submission at review of economics of the household)
         releaseDate: 2025-10-02
 
-    skills:
-      - name: Advanced Software
-        level: Master
+    Skills:
+      - name: advanced software
+        level: master
         icon: fa-solid fa-code
-        keywords: "Stata, R, GAMS, ArcGIS, LaTeX, MS Office"
+        keywords: "stata, r, gams, arcgis, latex, ms office"
 
-      - name: Basic Software
-        level: Beginner
+      - name: basic software
+        level: beginner
         icon: fa-solid fa-laptop
-        keywords: "MATLAB, SPSS, Mathematica, EViews, Python"
+        keywords: "matlab, spss, mathematica, eviews, python"
 
-    languages:
-      - name: Spanish
-        summary: "Native"
-      - name: English
-        summary: "Advanced (C1)"
-      - name: German
-        summary: "Basic (A1)"
+    Languages:
+      - name: spanish
+        summary: "native"
+      - name: english
+        summary: "advanced (c1)"
+      - name: german
+        summary: "basic (a1)"
 
-    interests:
-      - name: Research Areas
+    Interests:
+      - name: research areas
         icon: fa-solid fa-magnifying-glass
-        keywords: "Labour Economics, Causal inference, Policy Evaluation, Applied Microeconomics, Health Economics"
+        keywords: "labour economics, causal inference, policy evaluation, applied microeconomics, health economics"
 
-    certificates:
-      - name: "Sensitivity analysis in SES modeling"
+    Certificates:
+      - name: "sensitivity analysis in ses modeling"
         date: 2024-07-01
-        issuer: USAL-GECOS, Salamanca
+        issuer: usal-gecos, salamanca
         icon: fa-solid fa-certificate
 
-      - name: "Mathematical programming applications to water management"
+      - name: "mathematical programming applications to water management"
         date: 2024-07-02
-        issuer: USAL-GECOS, Salamanca
+        issuer: usal-gecos, salamanca
         icon: fa-solid fa-certificate
