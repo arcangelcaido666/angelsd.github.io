@@ -17,4 +17,4 @@ for students: materials are available in [studium](https://studium25.usal.es/). 
 {% comment %}
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 {% include courses.liquid %}
-{% comment %}
+{% endcomment %}
