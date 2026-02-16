@@ -15,7 +15,9 @@ nav_order: 1
 ---
 ## work in progress...
 
-blablabla
+The intra-household effects of inheritances on time allocation by gender
+
+You've got a friend in me: social capital and subjective life expectancy
 
 ---
 
