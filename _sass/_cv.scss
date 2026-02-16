@@ -218,3 +218,15 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+
+/*****************************
+ * mis ajustes (forzar minúsculas)
+ *****************************/
+.cv h2, 
+.cv h3, 
+.cv .card-title,
+.cv .title,
+td.list-group-category {
+    text-transform: lowercase !important;
+}
