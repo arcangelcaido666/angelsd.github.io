@@ -10,3 +10,13 @@ description: what i've been doing so far! i'd love to do so many more things!
 toc:
   sidebar: left
 ---
+
+<style>
+  /* Forzar minúsculas en los títulos de las cajas del CV */
+  .cv h2, 
+  .cv h3, 
+  .cv .card-title,
+  .cv .title {
+      text-transform: lowercase !important;
+  }
+</style>
